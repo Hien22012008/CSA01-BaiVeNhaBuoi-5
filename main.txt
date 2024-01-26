@@ -1,0 +1,17 @@
+Câu 1:
+-Cơ sở dữ liệu quan hệ dựa trên mô hình quan hệ, tổ chức dữ liệu thành các bảng có quan hệ với nhau thông qua khóa chính và khóa ngoại, 
+trong khi các loại cơ sở dữ liệu phi quan hệ không tuân theo mô hình này và có cách tổ chức dữ liệu khác nhau.
+
+Câu 2:
+Quan hệ 1-nhiều:
+
+Ví dụ: Một đơn hàng chỉ có thể đến từ một khách hàng; một khách hàng có thể đặt nhiều đơn hàng.
+
+Câu 3:
+A
+
+Câu 4:
+A
+
+Câu 5:
+D
